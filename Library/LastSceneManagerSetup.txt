@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Transparentscreen/scene/Transparentscreen1.unity
+  isLoaded: 1
+  isActive: 1
